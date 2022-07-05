@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section {
+    width: 100%;
+    height: 450px;
+    padding-bottom: 150px;
+    
+}
+
+.orange-color{
+    color: orange;
+}
+#title{
+    padding-top: 100px;
+    padding-right:20% ;
+    font-size: 50px;
+    text-align: center;
+    color: white;  
+}
+.top-section{
+    background-image: url(/images/Untitled-4.jpg);
+    background-repeat: no-repeat;
+       
+}
+
+#title-paragrapg{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 45%;
+    font-size: 18px;
+    color: white;
+}
+.Link-Button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(#ff5050, #ff99cc);
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+#top-button{
+        display: flex;
+        justify-content: center;
+        padding-right: 30%;
+    }
