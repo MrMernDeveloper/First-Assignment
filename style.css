@@ -116,6 +116,7 @@ h1 {
 
 #submit-taka {
     border: 3px solid red;
+    background-color: #fff4f3;
 }
 
 .input-taka {
@@ -148,8 +149,8 @@ h1 {
 
 .third-div {
     padding-top: 25px;
-    width: 21%;
-    margin-left: 8%;
+    width: 24%;
+    margin-left: 5%;
     padding-left: 2%;
     background-color: #ADD8E6;
 }
