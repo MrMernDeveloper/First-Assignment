@@ -15,7 +15,7 @@ section {
 }
 
 .orange-color {
-    color: orange;
+    color:Red;
 }
 
 #title {
@@ -54,52 +54,63 @@ section {
     display: flex;
     justify-content: center;
     margin-right: 15%;
-    
+
 }
 
 
-.donate-area{
+.donate-area {
     margin-top: 50px;
     margin-bottom: 50px;
     height: 300px;
-    
+
 }
+
 .donate-diclareation {
-    padding-top: 50px;
+    margin-top: 100px;
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
 
 }
+
 .taka {
     margin-top: 100px;
     padding-left: 0%;
     padding-right: 10%;
 }
 
-.amount-of-taka{
-margin-top: 70px;
-margin-left: 18%;
-padding-right: 15%;
-border: Noborder;
-
-}
-.amount-of-taka input{
-margin-left: 5%;
-text-decoration: none;
-background-color:#f8f8ffe3;
-font-weight: 700;
-padding:40px 30px 40px 30px;
-border-style: hidden;
+.amount-of-taka {
+    margin-top: 70px;
+    margin-left: 18%;
+    padding-right: 15%;
+    border: Noborder;
 
 }
 
-#submit-taka{
+.amount-of-taka input {
+    margin-left: 5%;
+    text-decoration: none;
+    background-color: #f8f8ffe3;
+    font-weight: 700;
+    padding: 40px 30px 40px 30px;
+    border-style: hidden;
+
+}
+
+#submit-taka {
     border: 3px solid red;
-
 }
 
-
-
-
-
+#personal-amount {
+    margin-left: 40%;
+    background-color:white
+}
+.middle button{
+    padding-left: 30%;
+}
+#middle-button{
+    display: flex;
+        justify-content: center;
+        margin-left: 5%;
+        margin-bottom: 50pix;
+}
