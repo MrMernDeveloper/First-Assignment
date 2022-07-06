@@ -229,10 +229,10 @@ h1 {
 }
 
 #last-input {
-    background-color: #5F9EA0;
+    background-color: #d9e2e2;
     border-style: none;
-    width: 320px;
-    height: 40px;
+    width: 300px;
+    height: 43px;
     margin-top: 70px;
     margin-left: 51%;
     font: 18px;
@@ -241,12 +241,12 @@ h1 {
 }
 
 #last-button {
-    background-color: #FF4500;
+    background-color: #f77665;
     border-style: none;
     margin-left: 68%;
-    height: 40px;
+    height: 42px;
     margin-top: 70px;
-    width: 100px;
+    width: 130px;
     color: white;
     font: 18px;
     border-radius: 5px;
