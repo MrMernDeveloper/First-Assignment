@@ -38,6 +38,7 @@ h1 {
 .top-section {
     background-image: url(images/Untitled-4.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 
 
 }
